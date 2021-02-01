@@ -1,6 +1,7 @@
-# MC Myth Home Page
+# Ray Home Page
+## From MC MYTH Home Page
 
-Demo: https://mc-myth.cn
+Demo: https://r-ay.cn/
 
 ## 初始化项目
 
