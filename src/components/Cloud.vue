@@ -15,7 +15,12 @@
 
 <script>
 export default {
-  name: 'Cloud'
+  name: 'Cloud',
+  computed: {
+    getYear () {
+      return new Date().getFullYear()
+    }
+  }
 }
 </script>
 
