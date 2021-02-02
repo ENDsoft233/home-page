@@ -1,7 +1,7 @@
 <template>
   <base-layout>
       <avatar />
-      <div class="name"><img height="72px" src="https://pro-video.xiaoheiban.cn/hcn/c18fcec0-94d4-4cb9-8db8-3284c88b1f23.svg" style="filter: invert(100%);" /></div>
+      <div class="name"><img height="72px" alt="Ray" src="https://pro-video.xiaoheiban.cn/hcn/c18fcec0-94d4-4cb9-8db8-3284c88b1f23.svg" style="filter: invert(100%);" /></div>
       <button-list />
   </base-layout>
 </template>
